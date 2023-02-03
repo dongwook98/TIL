@@ -1,29 +1,55 @@
 # Today I Learned
 
-> 오늘 공부한 내용을 기록합니다.
+- "기억은 기록을 이기지 못한다."는 말이 와닿아 나도 TIL 작성 시작
 
-## Frontend Tips
+- Today I Learned인데 날짜를 표시하지 않는 이유?
 
-## JavaScript
+  조급해지지 않고 꾸준하게 올릴 위함이다.
 
-## React
+## 프론트엔드
 
-## HTML
+---
 
-## CSS
+### [HTML](Front-end/HTML)
 
-## Tools, library
+---
 
-## Git
+### [CSS](/Users/kangdongwook/projects/TIL/Front-end/CSS)
 
-## 네트워크
+---
 
-## 알고리즘
+### [JavaScript](/Users/kangdongwook/projects/TIL/Front-end/JavaScript)
 
-## 운영체제
+---
 
-## 웹 지식
+### React
 
-## 데이터 베이스
+---
 
-## ETC
+## Tools
+
+---
+
+### Version Control System
+
+- Git
+
+---
+
+### Package Manager
+
+- npm
+
+- yarn
+
+---
+
+### Module Bundler
+
+- Webpack
+
+---
+
+## CS(Computer Sience)
+
+### 네트워크
