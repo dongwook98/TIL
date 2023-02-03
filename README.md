@@ -1,40 +1,89 @@
 # Today I Learned
 
-- "기억은 기록을 이기지 못한다."는 말이 와닿아 나도 TIL 작성 시작
+> "기억은 기록을 이기지 못한다."는 말이 와닿아서 나도 TIL 작성 시작
 
-- Today I Learned인데 날짜를 표시하지 않는 이유?
+> Today I Learned인데 날짜를 적지 않는 이유?  
+> 날짜에 조급해지지않고 정확하게 알기 위함이다.
 
-  조급해지지 않고 꾸준하게 올릴 위함이다.
+<br>
+<br>
+<br>
 
-## 프론트엔드
+# Front-end
 
----
+### 프로그래밍
 
-### [HTML](Front-end/HTML)
+- 프로그래밍이란?
 
----
+- 프로그래밍을 잘하는법
 
-### [CSS](/Users/kangdongwook/projects/TIL/Front-end/CSS)
-
----
-
-### [JavaScript](/Users/kangdongwook/projects/TIL/Front-end/JavaScript)
-
----
-
-### React
+### 인터넷
 
 ---
 
-## Tools
+- 인터넷이 어떻게 동작하는가?
+
+- HTTP란?
+
+- 브라우저, 그리고 동작 방식
+
+- DNS, 그리고 동작 방식
+
+- 도메인 이름이란?
+
+- 호스팅이란?
+
+<br>
+<br>
+<br>
+
+### [HTML](HTML)
 
 ---
+
+<br>
+<br>
+<br>
+
+### [CSS](CSS)
+
+---
+
+<br>
+<br>
+<br>
+
+### [JavaScript](https://github.com/dongwook98/TIL/tree/main/JavaScript)
+
+- 자바스크립트란?
+
+-
+
+---
+
+<br>
+<br>
+<br>
+
+### [React](React)
+
+---
+
+<br>
+<br>
+<br>
+
+# Tools
 
 ### Version Control System
 
-- Git
+- [Git](Git)
 
 ---
+
+<br>
+<br>
+<br>
 
 ### Package Manager
 
@@ -44,12 +93,22 @@
 
 ---
 
+<br>
+<br>
+<br>
+
 ### Module Bundler
 
 - Webpack
 
 ---
 
-## CS(Computer Sience)
+<br>
+<br>
+<br>
+
+# CS(Computer Sience)
 
 ### 네트워크
+
+### 자료구조
