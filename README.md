@@ -15,6 +15,8 @@
 
 ### 프로그래밍
 
+---
+
 - 프로그래밍이란?
 
 - 프로그래밍을 잘하는법
@@ -57,9 +59,7 @@
 
 ### [JavaScript](https://github.com/dongwook98/TIL/tree/main/JavaScript)
 
-- 자바스크립트란?
-
-- ***
+---
 
 <br>
 <br>
@@ -77,7 +77,7 @@
 
 ### Version Control System
 
-- [Git](Git)
+[Git](Git)
 
 ---
 
@@ -87,9 +87,9 @@
 
 ### Package Manager
 
-- npm
+npm
 
-- yarn
+yarn
 
 ---
 
@@ -111,4 +111,16 @@
 
 ### 네트워크
 
+---
+
 ### 자료구조
+
+---
+
+<br>
+<br>
+<br>
+
+# ETC
+
+### Markdown
