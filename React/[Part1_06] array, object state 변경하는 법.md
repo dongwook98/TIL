@@ -367,3 +367,5 @@ function App() {
 1. state변경함수 사용하기위해 spread문법으로 화살표(메모리주소) 변경
 
 2. 가나다 정렬
+
+<img src="https://user-images.githubusercontent.com/119502777/217466100-1b52ea4d-ce79-4dcf-a66c-365b5f96dcd0.gif" width="250">
