@@ -32,7 +32,7 @@ function 기계() {
 
 함수 문법을 이용해서 만든 후에, 안에 this.어쩌구를 추가하면 된다.
 
-여기서의 this는 <span style=color:red>기계로부터 새로 생성될 오브젝트</span>들을 의미한다.
+여기서의 this는 <span style=color:red>**기계로부터 새로 생성될 오브젝트**</span>들을 의미한다.
 
 <br>
 
